@@ -5,7 +5,7 @@ import {NavLink} from 'react-router-dom'
 function Home(props) {
   const { route } = props
   return (
-    <div>
+    <div> 
     <Top>
       <span className='iconfont'>&#xe65c;</span>
       <span className='title'>云音乐</span>
